@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# java-FizzBuzz
-Java FizzBuzz Kata
-=======
 # FizzBuzz (Kata)
 
 ## Requisitos
@@ -26,4 +22,3 @@ mvn archetype:generate -DgroupId=com.kata -DartifactId=FizzBuzz -DarchetypeArtif
     <maven.compiler.source>versión de java (en número)</maven.compiler.source>
     <maven.compiler.target>versión de java (en número)</maven.compiler.target>
 ```
->>>>>>> Stashed changes
